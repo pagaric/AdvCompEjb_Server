@@ -1,4 +1,4 @@
-package edu.aisl08.advcomp.authentification.dao.impl;
+package edu.aisl08.advcomp.authentification.dao;
 
 import edu.aisl08.advcomp.entity.Utilisateur;
 import fmk.persistence.EntityDao;

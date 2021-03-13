@@ -5,6 +5,7 @@ import java.util.List;
 
 import edu.aisl08.advcomp.Role;
 import edu.aisl08.advcomp.authentification.AdvcompException;
+import edu.aisl08.advcomp.authentification.dao.UtilisateurDao;
 import edu.aisl08.advcomp.entity.Utilisateur;
 import edu.aisl08.advcomp.entity.impl.UtilisateurImpl;
 

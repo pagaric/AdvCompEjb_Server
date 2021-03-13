@@ -1,6 +1,6 @@
 package edu.aisl08.advcomp;
 
-import edu.aisl08.advcomp.authentification.dao.impl.UtilisateurDao;
+import edu.aisl08.advcomp.authentification.dao.UtilisateurDao;
 import edu.aisl08.advcomp.authentification.service.AuthentificationService;
 import edu.aisl08.advcomp.authentification.service.UtilisateurService;
 import edu.aisl08.advcomp.calcul.service.CalculateurService;

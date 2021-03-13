@@ -4,7 +4,7 @@ import javax.inject.Inject;
 
 import edu.aisl08.advcomp.ServiceLocator;
 import edu.aisl08.advcomp.authentification.AdvcompException;
-import edu.aisl08.advcomp.authentification.dao.impl.UtilisateurDao;
+import edu.aisl08.advcomp.authentification.dao.UtilisateurDao;
 import edu.aisl08.advcomp.authentification.service.UtilisateurService;
 import edu.aisl08.advcomp.entity.Utilisateur;
 
